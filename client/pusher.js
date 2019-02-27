@@ -1,0 +1,7 @@
+export const config = {
+    appId: '724487',
+    key: '062486f91989359c632e',
+    secret: '26710af8f864707daf7f',
+    cluster: 'us2',
+    encrypted: true
+}
